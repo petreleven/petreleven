@@ -11,7 +11,7 @@
 [linkedin]: https://www.linkedin.com/in/peter-ndungu-eee
 
 
-! [GitHub Stats](https://github-readme-stats.vercel.app/api?username=petreleven  &theme=radical)
+! [GitHub Stats](https://github-readme-stats.vercel.app/api?username=petreleven&theme=radical)
 
 <!---
 petreleven/petreleven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
