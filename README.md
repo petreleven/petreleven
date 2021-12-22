@@ -2,13 +2,10 @@
 
 -⚡ I’m currently learning Data Science and Unity...
 
-### Connect with me:
+<h2> Lets Collaborate </h2>
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p> <a href="mailto:eng.peter.ndungu@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=blue" height=30 width=100 alt="Gmail badge">  <a href="https://www.linkedin.com/in/peter-ndungu-eee"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="https://twitter.com/Peternd11i"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
 
-[twitter]: https://twitter.com/Peternd11
-[linkedin]: https://www.linkedin.com/in/peter-ndungu-eee
 
 <details>
   <summary>:zap: GitHub Stats</summary>
