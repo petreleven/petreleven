@@ -1,6 +1,6 @@
 -  Hi, 👋 I’m Peter Ndungu
 
--⚡ I’m currently learning Data Science and Unity...
+-⚡ I’m currently learning Electrical and electronics engineering and Data Science
 
 <h2> Lets Collaborate </h2>
 
