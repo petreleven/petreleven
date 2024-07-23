@@ -1,24 +1,28 @@
--  Hi, 👋 I’m Peter Ndungu
 
--⚡ I’m currently learning Electrical and electronics engineering and Data Science
+<br>
+<br>
 
-<h2> Lets Collaborate </h2>
-
-<p> <a href="mailto:eng.peter.ndungu@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=blue" height=30 width=100 alt="Gmail badge">  <a href="https://www.linkedin.com/in/peter-ndungu-eee"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="https://twitter.com/njorogennn"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
+<h1 align="center">PETRELEVEN</h1>
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<div align="center">
+    <a href="https://isocpp.org/"><img height=30em src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://python.org"><img height=30em src="https://img.shields.io/badge/Python-%2320232a?style=for-the-badge&logo=python"></a>
+    <a href="https://go.dev"><img height=30em src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+</div>
+<div align="center">
+    <a href="https://neovim.io/"><img height=30em src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
+    <a href="https://git-scm.com"><img height=30em src="https://img.shields.io/badge/GIT-%2320232a?style=for-the-badge&logo=git&logoColor=E44C30"></a>
+    <a href="https://docker.com"><img height=30em src="https://img.shields.io/badge/Docker-%2320232a?style=for-the-badge&logo=docker"></a>
+</div>
+<div align="center">
+    <a href="https://ubuntu.com"><img height=30em src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+  <a href="https://blender.org"><img height=30em src="https://img.shields.io/badge/blender-%2320232a?style=for-the-badge&logo=blender"></a>
+</div>
 
-</details>
+#
 
-<h2>Github stats </h2>
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=petreleven&hide=contribs&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=uifff&bg_color=0,fd1d1d,e1306c,c13589,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petreleven&hide=css&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=fhfff&bg_color=0,833ac4,5851db,405de6&title_color=ffffff"/>
-
-<!---
-petreleven/petreleven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+    
+</div>
